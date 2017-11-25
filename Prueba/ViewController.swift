@@ -12,6 +12,8 @@ class ViewController: UIViewController {
     @IBOutlet weak var label1: UILabel!
     @IBAction func ButtonPressed(_ sender: Any) {
         label1.text = "aberal sine pvto"
+        //holadfs
+        label1.text = "neñ"
     }
     
     override func viewDidLoad() {
