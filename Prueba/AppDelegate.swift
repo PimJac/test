@@ -3,7 +3,7 @@
 //  Prueba
 //
 //  Created by Jacobo Pimentel on 11/24/17.
-//  Copyright © 2017 Jacobo Pimentel. All rights reserved.
+//  Copyright © 2017 Jacobo/Users/jacobopimentel/Desktop/Prueba/Prueba Pimentel. All rights reserved.
 //
 
 import UIKit

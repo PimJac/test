@@ -9,10 +9,16 @@
 import UIKit
 
 class ViewController: UIViewController {
-
+    @IBOutlet weak var label1: UILabel!
+    @IBAction func ButtonPressed(_ sender: Any) {
+        label1.text = "aberal sine pvto"
+    }
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
+        label1.text = "jajjaj ste men"
+        
     }
 
     override func didReceiveMemoryWarning() {
