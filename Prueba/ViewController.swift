@@ -14,6 +14,7 @@ class ViewController: UIViewController {
         label1.text = "aberal sine pvto"
         //holadfs
         label1.text = "neñ"
+        label1.text = "hola"
     }
     
     override func viewDidLoad() {
